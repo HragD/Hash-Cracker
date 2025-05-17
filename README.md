@@ -1,6 +1,5 @@
-==============================
+
 Hash Cracker - Python
-==============================
 
 A simple password hash cracker written in Python.
 
